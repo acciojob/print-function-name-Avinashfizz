@@ -3,6 +3,6 @@
 	 let A=functionName;
 	 alter("A");
  });
-functionName();
+functionName=functionName();
 Console.log("functionName");
 
